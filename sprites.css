@@ -1,0 +1,473 @@
+.tiles {
+	width:72px;
+	height:72px;
+	background-image: url('tiles2.png');
+}
+.tile_y1_x1 {
+	background-position:0 0;
+}
+.tile_y1_x2 {
+	background-position:-72px 0;
+}
+.tile_y1_x3 {
+	background-position:-144px 0;
+}<
+.tile_y1_x4 {
+	background-position:-216px 0;
+}
+.tile_y1_x5 {
+	background-position:-288px 0;
+}
+.tile_y1_x6 {
+	background-position:-360px 0;
+}
+.tile_y1_x7 {
+	background-position:-432px 0;
+}
+.tile_y1_x8 {
+	background-position:-504px 0;
+}
+.tile_y1_x9 {
+	background-position:-576px 0;
+}
+.tile_y1_x10 {
+	background-position:-648px 0;
+}
+.tile_y1_x11 {
+	background-position:-720px 0;
+}
+.tile_y1_x12 {
+	background-position:-792px 0;
+}
+.tile_y2_x1 {
+	background-position:0 -72px;
+}
+.tile_y2_x2 {
+	background-position:-72px -72px;
+}
+.tile_y2_x3 {
+	background-position:-144px -72px;
+}
+.tile_y2_x4 {
+	background-position:-216px -72px;
+}
+.tile_y2_x5 {
+	background-position:-288px -72px;
+}
+.tile_y2_x6 {
+	background-position:-360px -72px;
+}
+.tile_y2_x7 {
+	background-position:-432px -72px;
+}
+.tile_y2_x8 {
+	background-position:-504px -72px;
+}
+.tile_y2_x9 {
+	background-position:-576px -72px;
+}
+.tile_y2_x10 {
+	background-position:-648px -72px;
+}
+.tile_y2_x11 {
+	background-position:-720px -72px;
+}
+.tile_y2_x12 {
+	background-position:-792px -72px;
+}
+.tile_y3_x1 {
+	background-position:0 -144px;
+}
+.tile_y3_x2 {
+	background-position:-72px -144px;
+}
+.tile_y3_x3 {
+	background-position:-144px -144px;
+}
+.tile_y3_x4 {
+	background-position:-216px -144px;
+}
+.tile_y3_x5 {
+	background-position:-288px -144px;
+}
+.tile_y3_x6 {
+	background-position:-360px -144px;
+}
+.tile_y3_x7 {
+	background-position:-432px -144px;
+}
+.tile_y3_x8 {
+	background-position:-504px -144px;
+}
+.tile_y3_x9 {
+	background-position:-576px -144px;
+}
+.tile_y3_x10 {
+	background-position:-648px -144px;
+}
+.tile_y3_x11 {
+	background-position:-720px -144px;
+}
+.tile_y3_x12 {
+	background-position:-792px -144px;
+}
+.tile_y4_x1 {
+	background-position:0 -216px;
+}
+.tile_y4_x2 {
+	background-position:-72px -216px;
+}
+.tile_y4_x3 {
+	background-position:-144px -216px;
+}
+.tile_y4_x4 {
+	background-position:-216px -216px;
+}
+.tile_y4_x5 {
+	background-position:-288px -216px;
+}
+.tile_y4_x6 {
+	background-position:-360px -216px;
+}
+.tile_y4_x7 {
+	background-position:-432px -216px;
+}
+.tile_y4_x8 {
+	background-position:-504px -216px;
+}
+.tile_y4_x9 {
+	background-position:-576px -216px;
+}
+.tile_y4_x10 {
+	background-position:-648px -216px;
+}
+.tile_y4_x11 {
+	background-position:-720px -216px;
+}
+.tile_y4_x12 {
+	background-position:-792px -216px;
+}
+.tile_y5_x1 {
+	background-position:0 -288px;
+}
+.tile_y5_x2 {
+	background-position:-72px -288px;
+}
+.tile_y5_x3 {
+	background-position:-144px -288px;
+}
+.tile_y5_x4 {
+	background-position:-216px -288px;
+}
+.tile_y5_x5 {
+	background-position:-288px -288px;
+}
+.tile_y5_x6 {
+	background-position:-360px -288px;
+}
+.tile_y5_x7 {
+	background-position:-432px -288px;
+}
+.tile_y5_x8 {
+	background-position:-504px -288px;
+}
+.tile_y5_x9 {
+	background-position:-576px -288px;
+}
+.tile_y5_x10 {
+	background-position:-648px -288px;
+}
+.tile_y5_x11 {
+	background-position:-720px -288px;
+}
+.tile_y5_x12 {
+	background-position:-792px -288px;
+}
+.tile_y6_x1 {
+	background-position:0 -360px;
+}
+.tile_y6_x2 {
+	background-position:-72px -360px;
+}
+.tile_y6_x3 {
+	background-position:-144px -360px;
+}
+.tile_y6_x4 {
+	background-position:-216px -360px;
+}
+.tile_y6_x5 {
+	background-position:-288px -360px;
+}
+.tile_y6_x6 {
+	background-position:-360px -360px;
+}
+.tile_y6_x7 {
+	background-position:-432px -360px;
+}
+.tile_y6_x8 {
+	background-position:-504px -360px;
+}
+.tile_y6_x9 {
+	background-position:-576px -360px;
+}
+.tile_y6_x10 {
+	background-position:-648px -360px;
+}
+.tile_y6_x11 {
+	background-position:-720px -360px;
+}
+.tile_y6_x12 {
+	background-position:-792px -360px;
+}
+.tile_y7_x1 {
+	background-position:0 -432px;
+}
+.tile_y7_x2 {
+	background-position:-72px -432px;
+}
+.tile_y7_x3 {
+	background-position:-144px -432px;
+}
+.tile_y7_x4 {
+	background-position:-216px -432px;
+}
+.tile_y7_x5 {
+	background-position:-288px -432px;
+}
+.tile_y7_x6 {
+	background-position:-360px -432px;
+}
+.tile_y7_x7 {
+	background-position:-432px -432px;
+}
+.tile_y7_x8 {
+	background-position:-504px -432px;
+}
+.tile_y7_x9 {
+	background-position:-576px -432px;
+}
+.tile_y7_x10 {
+	background-position:-648px -432px;
+}
+.tile_y7_x11 {
+	background-position:-720px -432px;
+}
+.tile_y7_x12 {
+	background-position:-792px -432px;
+}
+.tile_y8_x1 {
+	background-position:0 -504px;
+}
+.tile_y8_x2 {
+	background-position:-72px -504px;
+}
+.tile_y8_x3 {
+	background-position:-144px -504px;
+}
+.tile_y8_x4 {
+	background-position:-216px -504px;
+}
+.tile_y8_x5 {
+	background-position:-288px -504px;
+}
+.tile_y8_x6 {
+	background-position:-360px -504px;
+}
+.tile_y8_x7 {
+	background-position:-432px -504px;
+}
+.tile_y8_x8 {
+	background-position:-504px -504px;
+}
+.tile_y8_x9 {
+	background-position:-576px -504px;
+}
+.tile_y8_x10 {
+	background-position:-648px -504px;
+}
+.tile_y8_x11 {
+	background-position:-720px -504px;
+}
+.tile_y8_x12 {
+	background-position:-792px -504px;
+}
+.tile_y9_x1 {
+	background-position:0 -576px;
+}
+.tile_y9_x2 {
+	background-position:-72px -576px;
+}
+.tile_y9_x3 {
+	background-position:-144px -576px;
+}
+.tile_y9_x4 {
+	background-position:-216px -576px;
+}
+.tile_y9_x5 {
+	background-position:-288px -576px;
+}
+.tile_y9_x6 {
+	background-position:-360px -576px;
+}
+.tile_y9_x7 {
+	background-position:-432px -576px;
+}
+.tile_y9_x8 {
+	background-position:-504px -576px;
+}
+.tile_y9_x9 {
+	background-position:-576px -576px;
+}
+.tile_y9_x10 {
+	background-position:-648px -576px;
+}
+.tile_y9_x11 {
+	background-position:-720px -576px;
+}
+.tile_y9_x12 {
+	background-position:-792px -576px;
+}
+.tile_y10_x1 {
+	background-position:0 -648px;
+}
+.tile_y10_x2 {
+	background-position:-72px -648px;
+}
+.tile_y10_x3 {
+	background-position:-144px -648px;
+}
+.tile_y10_x4 {
+	background-position:-216px -648px;
+}
+.tile_y10_x5 {
+	background-position:-288px -648px;
+}
+.tile_y10_x6 {
+	background-position:-360px -648px;
+}
+.tile_y10_x7 {
+	background-position:-432px -648px;
+}
+.tile_y10_x8 {
+	background-position:-504px -648px;
+}
+.tile_y10_x9 {
+	background-position:-576px -648px;
+}
+.tile_y10_x10 {
+	background-position:-648px -648px;
+}
+.tile_y10_x11 {
+	background-position:-720px -648px;
+}
+.tile_y10_x12 {
+	background-position:-792px -648px;
+}
+.tile_y11_x1 {
+	background-position:0 -720px;
+}
+.tile_y11_x2 {
+	background-position:-72px -720px;
+}
+.tile_y11_x3 {
+	background-position:-144px -720px;
+}
+.tile_y11_x4 {
+	background-position:-216px -720px;
+}
+.tile_y11_x5 {
+	background-position:-288px -720px;
+}
+.tile_y11_x6 {
+	background-position:-360px -720px;
+}
+.tile_y11_x7 {
+	background-position:-432px -720px;
+}
+.tile_y11_x8 {
+	background-position:-504px -720px;
+}
+.tile_y11_x9 {
+	background-position:-576px -720px;
+}
+.tile_y11_x10 {
+	background-position:-648px -720px;
+}
+.tile_y11_x11 {
+	background-position:-720px -720px;
+}
+.tile_y11_x12 {
+	background-position:-792px -720px;
+}
+.tile_y12_x1 {
+	background-position:0 -792px;
+}
+.tile_y12_x2 {
+	background-position:-72px -792px;
+}
+.tile_y12_x3 {
+	background-position:-144px -792px;
+}
+.tile_y12_x4 {
+	background-position:-216px -792px;
+}
+.tile_y12_x5 {
+	background-position:-288px -792px;
+}
+.tile_y12_x6 {
+	background-position:-360px -792px;
+}
+.tile_y12_x7 {
+	background-position:-432px -792px;
+}
+.tile_y12_x8 {
+	background-position:-504px -792px;
+}
+.tile_y12_x9 {
+	background-position:-576px -792px;
+}
+.tile_y12_x10 {
+	background-position:-648px -792px;
+}
+.tile_y12_x11 {
+	background-position:-720px -792px;
+}
+.tile_y12_x12 {
+	background-position:-792px -792px;
+}
+.tile_y13_x1 {
+	background-position:0 -864px;
+}
+.tile_y13_x2 {
+	background-position:-72px -864px;
+}
+.tile_y13_x3 {
+	background-position:-144px -864px;
+}
+.tile_y13_x4 {
+	background-position:-216px -864px;
+}
+.tile_y13_x5 {
+	background-position:-288px -864px;
+}
+.tile_y13_x6 {
+	background-position:-360px -864px;
+}
+.tile_y13_x7 {
+	background-position:-432px -864px;
+}
+.tile_y13_x8 {
+	background-position:-504px -864px;
+}
+.tile_y13_x9 {
+	background-position:-576px -864px;
+}
+.tile_y13_x10 {
+	background-position:-648px -864px;
+}
+.tile_y13_x11 {
+	background-position:-720px -864px;
+}
+.tile_y13_x12 {
+	background-position:-792px -864px;
+}

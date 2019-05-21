@@ -1,0 +1,49 @@
+body {
+	background-color:#000;
+	margin:0;
+	padding:0;
+}
+#viewPort {
+	border:1px solid #666;
+	padding:3px;
+	width:95%;
+	height:720px;
+}
+.gridDivs {
+	border:1px dashed #300;
+	position:absolute;
+	z-index: 100;
+	width:72px;
+	height:720px;
+	top:0;
+	left:0;
+}
+#mDisplay, #viewGfx, #viewGfx_mini {
+	width:72px;
+	height:72px;
+	border:1px dashed #ccc;
+	top:0;
+	left:0;
+	position: absolute;
+	z-index: 1001;
+}
+#viewGfx {
+	border: 1px solid #999;
+}
+#viewGfx_mini {
+	width:18px;
+	height:18px;
+	left:12px;
+	top:5px;
+	border: 1px solid #3f3;
+}
+.tiles {
+	position: absolute;
+}
+.tooltip_templates {
+	display: none;
+}
+#tooltip_content img {
+	width:25%;
+	height:25%;
+}
