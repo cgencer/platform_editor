@@ -18,6 +18,11 @@
 		'x': 0,
 		'y': 0
 	};
+	for (var i = 0; i < inMem.length; i++) {
+		for (var j = 0; j < 15; j++) {
+			inMem[i][j] = Object.assign({}, cleanItem);
+		}
+	}
 
 	let xGrid = $('#viewPort').width() / blockSize;
 	let yGrid = $('#viewPort').height() / blockSize;
