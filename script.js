@@ -44,7 +44,7 @@
 		$(elm).css('heigth', blockSize+'px');
 	});
 
-	$('body').on('mousemove', function(e) {
+	$('body').on('mousemove', function(event) {
 		let mX = Math.floor(event.pageX/blockSize)*blockSize;
 		let mY = Math.floor(event.pageY/blockSize)*blockSize;
 		$('#mDisplay').css('top', mY+'px');
@@ -94,8 +94,8 @@
 
 	$('#viewGfx').on('click', function(e) {
 		console.log('clicked.');
-
 		let clickedPos = $('#viewGfx').offset();
+
 		$('.tiles[data-x="'+Math.floor(clickedPos.left/blockSize)+'"][data-y="'+Math.floor(clickedPos.top/blockSize)+'"]').remove();
 		$('body').append('<div id="tile_' + addedTile + '" />');
 		$('#tile_' + addedTile).addClass('tiles').addClass('tile_y'+gPosX+'_x'+gPosY);
